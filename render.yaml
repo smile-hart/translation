@@ -1,6 +1,6 @@
 services:
   - type: web
-    name:translation
+    name: translation
     runtime: static
     repo: https://github.com/smile-hart/translation
     branch: main
