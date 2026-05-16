@@ -1,0 +1,6 @@
+services:
+  - type: static_site
+    name: translation
+    repo: https://github.com/smile-hart/translation
+    buildCommand: ""
+    staticPublishPath: ./
